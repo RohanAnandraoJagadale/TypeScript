@@ -1,0 +1,12 @@
+console.log("Test code");
+var No = 11;
+var No1 = 11;
+var No2;
+var No3 = 0;
+console.log("Value of No is : " + No);
+var Technology = "Angular";
+var KYC = false;
+var Gender = true;
+console.log(typeof KYC);
+console.log(typeof Technology);
+console.log(typeof No);
